@@ -4,25 +4,35 @@
   My name is Marcos Boza Saldivar, I am Software engineer, entrepreneur,
   housband and father of a wonderfull child
   
-  ## Contact me
+  I have worked with technologies like Ruby/Rails/Postgres/GraphQL React/NextJS/Apollo GraphQL/Ant Design Node/Express
+  
+  - 🔭 I'm currently working on Web developments
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2022 Goals: Contribute more to others projects
+- ⚡ Fun fact: I love soccer and movies 🍿
+  
 
-- [LinkedIn](https://www.linkedin.com/in/marcos-boza-sald%C3%ADvar-276a1637/)
-- [Facebook](https://www.facebook.com/bozasaldivar/)
-- [Instagram](https://www.instagram.com/marcosbozasaldivar/)
+### GitHub Stats 
 
-I have worked with technologies like Ruby/Rails/Postgres/GraphQL React/NextJS/Apollo GraphQL/Ant Design Node/Express
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mabsboza&theme=tokyonight&show_icons=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mabsboza&theme=tokyonight&show_icons=true" />
+  <img width="97%" src="https://activity-graph.herokuapp.com/graph?username=mabsboza&theme=github" />
+</div>
 
-<!--
-**mabsboza/mabsboza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Contact me
+  
+<div align="center">
+  <a href="https://www.linkedin.com/in/marcos-boza-sald%C3%ADvar-276a1637/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" target="_blank"/>
+  </a>&ensp;
 
-Here are some ideas to get you started:
+  <a href="https://www.facebook.com/bozasaldivar/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" target="_blank"/>
+  </a>&ensp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://www.instagram.com/marcosbozasaldivar/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" target="_blank" />
+  </a>&ensp;
+</div>
