@@ -36,3 +36,11 @@
     <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" target="_blank" />
   </a>&ensp;
 </div>
+
+### 🧠 Blog posts
+
+- [New EcmaScript Features 2021 ⚡️](https://lets-drink-a-coffee.herokuapp.com/communities/1/posts/36)
+- [Developer Mistakes 💊](https://lets-drink-a-coffee.herokuapp.com/communities/1/posts/37)
+- [👑 Why should we still use Ruby on rails?](https://lets-drink-a-coffee.herokuapp.com/communities/1/posts/35)
+
+⚡️ [read more here...](https://marcos-boza-portafolio.vercel.app/)
