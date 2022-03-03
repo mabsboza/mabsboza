@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to others projects
-- ⚡ Fun fact: I love soccer and movies 🍿
+- ⚡ Fun fact: I love soccer, music and movies 🍿
   
 
 ### GitHub Stats 
