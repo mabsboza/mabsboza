@@ -41,6 +41,9 @@ https://www.codewars.com/users/mabsboza/stats
   </a>&ensp;
 </div>
 
+### Support
+https://www.buymeacoffee.com/mabsboza1801
+
 
 ### 🧠 Blog posts
 
