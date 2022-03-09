@@ -21,6 +21,10 @@
   <img width="97%" src="https://activity-graph.herokuapp.com/graph?username=mabsboza&theme=github" />
 </div>
 
+### Code Wars Stats
+
+https://www.codewars.com/users/mabsboza/stats
+
 ### Contact me
   
 <div align="center">
@@ -36,6 +40,7 @@
     <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" target="_blank" />
   </a>&ensp;
 </div>
+
 
 ### 🧠 Blog posts
 
