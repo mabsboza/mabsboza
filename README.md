@@ -21,7 +21,7 @@
   <img width="97%" src="https://activity-graph.herokuapp.com/graph?username=mabsboza&theme=github" />
 </div>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mabsboza" alt="mabsboza" /></a> </p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=mabsboza" alt="mabsboza" /></p>
 
 ### Code Wars Stats
 
