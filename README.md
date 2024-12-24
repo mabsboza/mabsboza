@@ -15,10 +15,6 @@
 
 ### GitHub Stats 
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mabsboza&theme=tokyonight&show_icons=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mabsboza&theme=tokyonight&show_icons=true" />
-</div>
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=mabsboza" alt="mabsboza" /></p>
 
@@ -52,5 +48,3 @@ https://www.codewars.com/users/mabsboza/stats
 - [New EcmaScript Features 2021 ⚡️](https://lets-drink-a-coffee.herokuapp.com/communities/1/posts/36)
 - [Developer Mistakes 💊](https://lets-drink-a-coffee.herokuapp.com/communities/1/posts/37)
 - [👑 Why should we still use Ruby on rails?](https://lets-drink-a-coffee.herokuapp.com/communities/1/posts/35)
-
-⚡️ [read more here...](https://marcos-boza-portafolio.vercel.app/)
