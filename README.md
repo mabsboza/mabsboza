@@ -9,5 +9,5 @@
   - 🔭 I'm currently working on Web developments
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to others projects
+- 🥅 2025 Goals: Contribute more to others projects
 - ⚡ Fun fact: I love soccer, music and movies 🍿
