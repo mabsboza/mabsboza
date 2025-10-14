@@ -2,7 +2,7 @@
   Long life and prosperity 🖖
   
   My name is Marcos Boza Saldivar, I am Software engineer, entrepreneur,
-  housband and father of 2 wonderfull children.
+  housband and a proud father.
   
   I have worked with technologies like Ruby/Rails/Postgres/GraphQL React/NextJS/Apollo GraphQL/Ant Design Node/Express
   
